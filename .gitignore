@@ -4,6 +4,8 @@ dist
 package-lock.json
 data
 api
+yarn.lock
+
 #Ignore temp and swp files
 *~
 *.swp
