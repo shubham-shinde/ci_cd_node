@@ -1,0 +1,12 @@
+.idea
+**/node_modules
+dist
+package-lock.json
+data
+api
+#Ignore temp and swp files
+*~
+*.swp
+*.swo
+tags
+
